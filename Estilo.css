@@ -1,0 +1,43 @@
+body
+{
+	font-family: arial, heveltica;
+	background: white;
+}
+.tema
+{
+	text-align: center;
+	font:calisto MT ;
+
+}
+.menu
+{
+	background: black;
+	list-style: none;
+	padding: 0;
+	width: 90%;
+	max-width: 1000px;
+	margin: auto;
+}
+.menu li a
+{
+	text-decoration: none;
+	color: white;
+	padding: 20px;
+	display: block;
+
+}
+.menu li
+{
+	display:inline-block;
+	text-align: center;
+}
+.menu li a:hover
+{
+	background: blue;
+}
+.manuales
+{
+	display: inline-block;
+	text-align: center;
+
+}
